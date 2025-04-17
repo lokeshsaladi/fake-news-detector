@@ -11,6 +11,8 @@ Evaluated performance with confusion matrix and classification report
 
 Built a simple Flask web app for real-time prediction
 
+🚀 click this link https://fake-news-detector-dqdn.onrender.com to run the project website 
+
 🛠️ Tech Stack
 Python
 
